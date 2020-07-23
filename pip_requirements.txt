@@ -47,7 +47,7 @@ Distutils2==1.0a3
 distlib==0.1.2
 
 # Commenting stuff
-djangorestframework==2.3.6
+djangorestframework==3.9.1
 django-cors-headers==0.11
 
 # Pegged git requirements
